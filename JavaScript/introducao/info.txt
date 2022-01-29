@@ -1,0 +1,33 @@
+O  JsvaScript 
+
+- linguagem de script e multiplataforma de
+- Client Side - E executado ao lado do cliente 
+- tem capacidade de integir com elementos de uma pagina
+- usado no desenvolvimento web e mobile 
+
+-----------------------------------------------------------------
+
+a capacidade de interagir com elementos de uma pagina
+graças ao DON (document object model)
+
+ * JsvaScript pode alterar todos
+ elementos do HTML interagir
+
+ * JsvaScript pode alterar Todos
+ os atributos e estilos de CSS 
+ de uma pagina
+
+----------------------------------------------------------------
+-------------------------------------------
+#Var (Variavel)
+declara a variavel nao tendo a necessidade
+de realizar a tipagem 
+
+Ex. var nome = "lucas"
+-------------------------------------------
+#Alert
+alert = solta uma poup-up de alerta
+na pagina 
+
+Ex .  alert(frase.replace("japao", "brasil"))
+-------------------------------------------
